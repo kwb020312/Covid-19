@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0fb5c2f.chunk.css",
-    "main.js": "/static/js/main.09e8d8a3.chunk.js",
-    "main.js.map": "/static/js/main.09e8d8a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7842b6c0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7842b6c0.js.map",
-    "static/js/2.b47b279c.chunk.js": "/static/js/2.b47b279c.chunk.js",
-    "static/js/2.b47b279c.chunk.js.map": "/static/js/2.b47b279c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d0fb5c2f.chunk.css.map": "/static/css/main.d0fb5c2f.chunk.css.map",
-    "static/js/2.b47b279c.chunk.js.LICENSE.txt": "/static/js/2.b47b279c.chunk.js.LICENSE.txt"
+    "main.css": "/chorona19/static/css/main.d0fb5c2f.chunk.css",
+    "main.js": "/chorona19/static/js/main.09e8d8a3.chunk.js",
+    "main.js.map": "/chorona19/static/js/main.09e8d8a3.chunk.js.map",
+    "runtime-main.js": "/chorona19/static/js/runtime-main.e961d942.js",
+    "runtime-main.js.map": "/chorona19/static/js/runtime-main.e961d942.js.map",
+    "static/js/2.b47b279c.chunk.js": "/chorona19/static/js/2.b47b279c.chunk.js",
+    "static/js/2.b47b279c.chunk.js.map": "/chorona19/static/js/2.b47b279c.chunk.js.map",
+    "index.html": "/chorona19/index.html",
+    "static/css/main.d0fb5c2f.chunk.css.map": "/chorona19/static/css/main.d0fb5c2f.chunk.css.map",
+    "static/js/2.b47b279c.chunk.js.LICENSE.txt": "/chorona19/static/js/2.b47b279c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7842b6c0.js",
+    "static/js/runtime-main.e961d942.js",
     "static/js/2.b47b279c.chunk.js",
     "static/css/main.d0fb5c2f.chunk.css",
     "static/js/main.09e8d8a3.chunk.js"
