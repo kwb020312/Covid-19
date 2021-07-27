@@ -6,7 +6,7 @@ ReactJS 와 Chartjs2를 사용하여 코로나 확진자 및 사망자 추이를
 
 ### :diamonds: 헤더
 
-<img src="covid-19\gitImages\Header.PNG">
+<img src=".\gitImages\Header.PNG">
 
 간단하게 헤더 부분을 분리하여 컴포넌트화 시킴
 
@@ -32,9 +32,9 @@ export default Header;
 
 누적 확진자, 월별 격리자 등을 포함하여 전체적인 현황을 알 수 있는 UI를 만듦
 
-<img src="covid-19\gitImages\InCountry.PNG" />
-<img src="covid-19\gitImages\Monty.PNG">
-<img src="covid-19\gitImages\All.PNG">
+<img src=".\gitImages\InCountry.PNG" />
+<img src="./gitImages\Monty.PNG">
+<img src="./gitImages\All.PNG">
 
 ### :bulb: 알게된 점
 
